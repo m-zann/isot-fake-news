@@ -1,0 +1,27 @@
+# For GPU acceleration
+# torch with CUDA support
+# Example: !pip install torch torchvision torchaudio --index-url https://download.pytorch.org/whl/cu118
+torch
+torchvision
+pytorch-lightning
+torchmetrics
+numpy
+pandas
+scikit-learn
+matplotlib
+seaborn
+opencv-python
+pillow
+imagehash
+mtcnn
+lime
+scikit-image
+tqdm
+wordcloud
+nltk
+textstat
+spacy
+lightgbm 
+transformers
+optuna
+optuna-integration[sklearn]
